@@ -1,2 +1,0 @@
-# gittest
-My first repository
